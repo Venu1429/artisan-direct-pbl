@@ -1,0 +1,4 @@
+buyers_per_1000,gmv_per_buyer_year,contribution_per_buyer_year,ltv,cac,ltv_cac,payback_months,breakeven_buyers,max_cac_for_3x,breakeven_gmv,segment,share_pct
+244.1,6508.0,586.0,1464.0,500,2.93,10.2,8537,488.0,55555556,High probability,30.6
+70.4,3515.0,316.0,791.0,500,1.58,19.0,15806,264.0,55555556,Medium probability,24.6
+36.2,1998.0,180.0,450.0,500,0.9,33.4,27799,150.0,55555556,Low probability,44.8

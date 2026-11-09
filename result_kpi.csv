@@ -1,0 +1,21 @@
+metric,value
+raw_responses,3200
+usable,2839
+interested_pct,40.6
+very_likely_pct,16.4
+unsure_pct,17.5
+bought_handmade_pct,52.8
+median_wtp,950.0
+mean_wtp,1542.0
+median_wtp_interested,1750.0
+mean_annual_interested,8293.0
+mean_annual_all,3869.0
+median_aov,1165.0
+best_clf,Logistic regression
+best_auc,0.916
+belief_artisan_share,340.0
+agree_middlemen_pct,42.3
+agree_copies_pct,35.0
+agree_maker_pct,39.6
+agree_payfair_pct,45.7
+s1_pct,53.7

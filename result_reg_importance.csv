@@ -1,0 +1,17 @@
+target,feature,importance,direction
+Max price per item (Q23),Last handmade price (log),0.5707,raises spend
+Max price per item (Q23),Purchase intent (Q21),0.2658,raises spend
+Max price per item (Q23),Income band,0.0495,raises spend
+Max price per item (Q23),Attitude: Pays more for authentic,0.0261,raises spend
+Max price per item (Q23),Handmade purchases (log),0.0137,raises spend
+Max price per item (Q23),Reason: I do not buy handmade,0.0079,lowers spend
+Max price per item (Q23),Bought handmade last year,0.007,raises spend
+Max price per item (Q23),Bought at Government emporiums,0.002,raises spend
+Annual spend on app (Q24),Purchase intent (Q21),1.0477,raises spend
+Annual spend on app (Q24),Last handmade price (log),0.0327,raises spend
+Annual spend on app (Q24),Monthly online spend (log),0.0044,raises spend
+Annual spend on app (Q24),Bought at Social media sellers,0.0042,raises spend
+Annual spend on app (Q24),Income band,0.0039,raises spend
+Annual spend on app (Q24),Attitude: Buying from artisans fits values,0.0035,raises spend
+Annual spend on app (Q24),Age,0.003,lowers spend
+Annual spend on app (Q24),Gender: Prefer not to say,0.002,raises spend

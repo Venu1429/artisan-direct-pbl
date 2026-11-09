@@ -1,0 +1,71 @@
+rule,rule_names,n_ante,support_pct,confidence_pct,lift
+S4 + S8 -> S7,Making-of video + Subscription box -> Gift packaging,2,4.9,56.3,2.68
+S5 + S8 -> S7,Authenticity check + Subscription box -> Gift packaging,2,5.1,55.8,2.65
+S3 + S8 -> S7,Made-to-order + Subscription box -> Gift packaging,2,4.0,54.8,2.61
+S1 + S8 -> S7,Artisan profile & story + Subscription box -> Gift packaging,2,5.5,54.4,2.59
+S6 + S8 -> S7,Chat with artisan + Subscription box -> Gift packaging,2,5.0,53.8,2.56
+S2 + S8 -> S7,Price breakdown + Subscription box -> Gift packaging,2,5.7,53.6,2.55
+S8 + S10 -> S7,Subscription box + Easy returns & guarantee -> Gift packaging,2,4.2,53.6,2.55
+S8 -> S7,Subscription box -> Gift packaging,1,8.5,51.3,2.44
+S1 + S9 -> S4,Artisan profile & story + Live workshops -> Making-of video,2,15.9,85.8,1.93
+S6 + S9 -> S4,Chat with artisan + Live workshops -> Making-of video,2,13.7,85.7,1.93
+S3 + S9 -> S4,Made-to-order + Live workshops -> Making-of video,2,10.3,85.4,1.92
+S7 + S9 -> S4,Gift packaging + Live workshops -> Making-of video,2,5.2,82.6,1.86
+S8 + S9 -> S4,Subscription box + Live workshops -> Making-of video,2,4.1,82.3,1.85
+S1 + S3 -> S6,Artisan profile & story + Made-to-order -> Chat with artisan,2,18.3,81.9,1.82
+S2 + S9 -> S4,Price breakdown + Live workshops -> Making-of video,2,15.2,80.4,1.81
+S5 + S9 -> S4,Authenticity check + Live workshops -> Making-of video,2,12.6,79.7,1.79
+S6 + S8 -> S3,Chat with artisan + Subscription box -> Made-to-order,2,5.3,56.8,1.78
+S1 + S3 -> S4,Artisan profile & story + Made-to-order -> Making-of video,2,17.6,78.7,1.77
+S3 + S4 -> S6,Made-to-order + Making-of video -> Chat with artisan,2,16.2,78.1,1.73
+S4 + S8 -> S3,Making-of video + Subscription box -> Made-to-order,2,4.8,55.1,1.73
+S2 + S8 -> S3,Price breakdown + Subscription box -> Made-to-order,2,5.9,54.9,1.72
+S6 + S9 -> S3,Chat with artisan + Live workshops -> Made-to-order,2,8.8,54.8,1.72
+S1 + S8 -> S6,Artisan profile & story + Subscription box -> Chat with artisan,2,7.7,77.2,1.71
+S4 + S8 -> S6,Making-of video + Subscription box -> Chat with artisan,2,6.7,77.1,1.71
+S5 + S8 -> S3,Authenticity check + Subscription box -> Made-to-order,2,5.0,54.6,1.71
+S3 + S6 -> S4,Made-to-order + Chat with artisan -> Making-of video,2,16.2,75.4,1.69
+S6 + S7 -> S3,Chat with artisan + Gift packaging -> Made-to-order,2,5.9,53.8,1.69
+S1 + S5 -> S2,Artisan profile & story + Authenticity check -> Price breakdown,2,30.9,90.9,1.69
+S1 + S6 -> S4,Artisan profile & story + Chat with artisan -> Making-of video,2,27.2,74.9,1.68
+S2 + S6 -> S1,Price breakdown + Chat with artisan -> Artisan profile & story,2,29.2,90.2,1.68
+S1 + S4 -> S6,Artisan profile & story + Making-of video -> Chat with artisan,2,27.2,75.5,1.68
+S4 + S6 -> S3,Making-of video + Chat with artisan -> Made-to-order,2,16.2,53.4,1.67
+S4 + S6 -> S1,Making-of video + Chat with artisan -> Artisan profile & story,2,27.2,89.8,1.67
+S2 + S3 -> S6,Price breakdown + Made-to-order -> Chat with artisan,2,16.9,75.2,1.67
+S2 + S4 -> S1,Price breakdown + Making-of video -> Artisan profile & story,2,29.0,89.5,1.67
+S1 + S7 -> S4,Artisan profile & story + Gift packaging -> Making-of video,2,9.3,74.1,1.67
+S4 + S5 -> S2,Making-of video + Authenticity check -> Price breakdown,2,24.4,89.7,1.66
+S9 -> S4,Live workshops -> Making-of video,1,19.4,74.0,1.66
+S1 + S8 -> S3,Artisan profile & story + Subscription box -> Made-to-order,2,5.3,53.0,1.66
+S2 + S3 -> S4,Price breakdown + Made-to-order -> Making-of video,2,16.6,73.8,1.66
+S4 + S9 -> S3,Making-of video + Live workshops -> Made-to-order,2,10.3,52.9,1.66
+S5 + S9 -> S2,Authenticity check + Live workshops -> Price breakdown,2,14.1,89.3,1.66
+S1 + S9 -> S3,Artisan profile & story + Live workshops -> Made-to-order,2,9.8,52.8,1.65
+S5 + S6 -> S2,Authenticity check + Chat with artisan -> Price breakdown,2,24.4,89.1,1.65
+S9 + S10 -> S4,Live workshops + Easy returns & guarantee -> Making-of video,2,9.7,73.5,1.65
+S1 + S9 -> S6,Artisan profile & story + Live workshops -> Chat with artisan,2,13.8,74.4,1.65
+S4 + S7 -> S3,Making-of video + Gift packaging -> Made-to-order,2,5.8,52.7,1.65
+S5 + S6 -> S3,Authenticity check + Chat with artisan -> Made-to-order,2,14.4,52.6,1.65
+S2 + S6 -> S4,Price breakdown + Chat with artisan -> Making-of video,2,23.6,73.0,1.64
+S3 + S5 -> S6,Made-to-order + Authenticity check -> Chat with artisan,2,14.4,73.8,1.64
+S2 + S6 -> S3,Price breakdown + Chat with artisan -> Made-to-order,2,16.9,52.2,1.64
+S5 + S8 -> S2,Authenticity check + Subscription box -> Price breakdown,2,8.1,88.1,1.63
+S5 + S6 -> S1,Authenticity check + Chat with artisan -> Artisan profile & story,2,24.0,87.7,1.63
+S1 + S8 -> S4,Artisan profile & story + Subscription box -> Making-of video,2,7.3,72.6,1.63
+S3 + S5 -> S2,Made-to-order + Authenticity check -> Price breakdown,2,17.2,87.9,1.63
+S5 + S9 -> S3,Authenticity check + Live workshops -> Made-to-order,2,8.2,52.0,1.63
+S2 + S10 -> S5,Price breakdown + Easy returns & guarantee -> Authenticity check,2,20.7,77.2,1.63
+S4 + S5 -> S1,Making-of video + Authenticity check -> Artisan profile & story,2,23.8,87.5,1.63
+S1 + S7 -> S6,Artisan profile & story + Gift packaging -> Chat with artisan,2,9.2,73.2,1.63
+S5 + S6 -> S4,Authenticity check + Chat with artisan -> Making-of video,2,19.8,72.2,1.62
+S2 + S4 -> S6,Price breakdown + Making-of video -> Chat with artisan,2,23.6,73.1,1.62
+S6 + S7 -> S4,Chat with artisan + Gift packaging -> Making-of video,2,7.9,72.1,1.62
+S3 + S9 -> S6,Made-to-order + Live workshops -> Chat with artisan,2,8.8,72.8,1.62
+S4 + S5 -> S6,Making-of video + Authenticity check -> Chat with artisan,2,19.8,72.6,1.61
+S2 + S3 -> S5,Price breakdown + Made-to-order -> Authenticity check,2,17.2,76.3,1.61
+S6 + S8 -> S4,Chat with artisan + Subscription box -> Making-of video,2,6.7,71.6,1.61
+S2 + S7 -> S5,Price breakdown + Gift packaging -> Authenticity check,2,10.0,76.2,1.61
+S6 + S9 -> S1,Chat with artisan + Live workshops -> Artisan profile & story,2,13.8,86.3,1.61
+S2 + S4 -> S3,Price breakdown + Making-of video -> Made-to-order,2,16.6,51.3,1.61
+S3 + S8 -> S6,Made-to-order + Subscription box -> Chat with artisan,2,5.3,72.1,1.6

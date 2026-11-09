@@ -1,0 +1,11 @@
+step,rows
+Raw responses,3200
+Failed attention check (Q15k),183
+Speeders (under 2 minutes),131
+Straight-liners (same answer on all Likert items),61
+Removed (any of the above),361
+Usable responses,2839
+Impossible ages set to median,11
+Online orders per month above 40 capped,15
+Missing values filled (all fields),486
+Missing Q23 (rows excluded from WTP model),59

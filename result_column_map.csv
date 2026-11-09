@@ -1,0 +1,76 @@
+variable,section,classification,clustering,association,regression_price_Q23,regression_yearly_Q24,note
+respondent_id,A,-,-,-,-,-,"Row identifier, never modelled"
+Q1_age,A,Feature,Feature,-,Feature,Feature,
+Q2_gender,A,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q3_city_tier,A,Feature,Feature,-,Feature,Feature,
+Q4_education,A,Feature,Feature,-,Feature,Feature,
+Q5_occupation,A,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q6_income_band,A,Feature,Feature,-,Feature,Feature,
+Q7_online_orders_per_month,B,Feature,Feature,-,Feature,Feature,
+Q8_Amazon,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q8_Flipkart,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q8_Myntra,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q8_Meesho,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q8_Nykaa,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q8_Etsy,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q8_Instagram or WhatsApp sellers,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q8_Brand websites,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q8_Other,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q9_monthly_online_spend,B,Feature,Feature,-,Feature,Feature,
+Q10_Instagram or Facebook,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q10_YouTube,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q10_Friends or family,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q10_Search engine,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q10_Marketplace recommendations,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q10_Influencers,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q10_Offline stores,B,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q11_bought_handmade_12m,C,Feature,Feature,-,Feature,Feature,
+Q12_handmade_purchases_12m,C,Feature,Feature,-,Feature,Feature,
+Q13_Craft fairs or melas,C,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q13_Government emporiums,C,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q13_Local artisan shops,C,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q13_Online marketplaces,C,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q13_Directly from the artisan,C,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q13_Boutiques or malls,C,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q13_Social media sellers,C,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q14_main_reason,C,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q15a,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q15b,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q15c,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q15d,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q15e,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q15f,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q15g,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q15h,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q15i,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q15j,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q15k,D,-,-,-,-,-,Attention check. Used only to remove careless respondents
+Q15l,D,Feature,Feature,-,Feature,Feature,Attitude item on a 1-5 scale
+Q16_last_handmade_price,E,Feature,Feature,-,Feature,Feature,
+Q17_artisan_share_belief,E,Feature,Feature,-,Feature,Feature,
+Q18_S1,F,Feature,Counted into 'services wanted',BASKET ITEM,Feature,Feature,One of the 10 services. The only columns used for association rules
+Q18_S2,F,Feature,Counted into 'services wanted',BASKET ITEM,Feature,Feature,One of the 10 services. The only columns used for association rules
+Q18_S3,F,Feature,Counted into 'services wanted',BASKET ITEM,Feature,Feature,One of the 10 services. The only columns used for association rules
+Q18_S4,F,Feature,Counted into 'services wanted',BASKET ITEM,Feature,Feature,One of the 10 services. The only columns used for association rules
+Q18_S5,F,Feature,Counted into 'services wanted',BASKET ITEM,Feature,Feature,One of the 10 services. The only columns used for association rules
+Q18_S6,F,Feature,Counted into 'services wanted',BASKET ITEM,Feature,Feature,One of the 10 services. The only columns used for association rules
+Q18_S7,F,Feature,Counted into 'services wanted',BASKET ITEM,Feature,Feature,One of the 10 services. The only columns used for association rules
+Q18_S8,F,Feature,Counted into 'services wanted',BASKET ITEM,Feature,Feature,One of the 10 services. The only columns used for association rules
+Q18_S9,F,Feature,Counted into 'services wanted',BASKET ITEM,Feature,Feature,One of the 10 services. The only columns used for association rules
+Q18_S10,F,Feature,Counted into 'services wanted',BASKET ITEM,Feature,Feature,One of the 10 services. The only columns used for association rules
+Q19_price_display_pref,F,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q20_profile_priority,F,Feature,-,-,Feature,Feature,Left out of clustering: yes/no flags and category labels would dominate the distance between people
+Q21_intent_1to5,G,TARGET (4-5 = interested),Not used to build clusters; used afterwards to rank segments,-,Feature,Feature,Purchase intent
+Q22_Doubt about quality,G,-,-,-,-,-,Barriers. Asked after intent so it explains the answer instead of predicting it. Used for insight only
+Q22_Long delivery time,G,-,-,-,-,-,Barriers. Asked after intent so it explains the answer instead of predicting it. Used for insight only
+Q22_Return policy,G,-,-,-,-,-,Barriers. Asked after intent so it explains the answer instead of predicting it. Used for insight only
+Q22_Price too high,G,-,-,-,-,-,Barriers. Asked after intent so it explains the answer instead of predicting it. Used for insight only
+Q22_Doubt it is truly handmade,G,-,-,-,-,-,Barriers. Asked after intent so it explains the answer instead of predicting it. Used for insight only
+Q22_Prefer to see and touch,G,-,-,-,-,-,Barriers. Asked after intent so it explains the answer instead of predicting it. Used for insight only
+Q22_Payment security,G,-,-,-,-,-,Barriers. Asked after intent so it explains the answer instead of predicting it. Used for insight only
+Q22_Nothing,G,-,-,-,-,-,Barriers. Asked after intent so it explains the answer instead of predicting it. Used for insight only
+Q23_max_price_one_item,G,-,-,-,TARGET,-,Most they would pay for one item
+Q24_annual_spend_app,G,-,-,-,-,TARGET,Expected yearly spend on the app
+Q25_purchases_per_year,G,-,-,-,-,-,"Yearly spend = purchases x price, so using it as a feature would leak the answer"
+survey_seconds,A,-,-,-,-,-,Used only to remove speeders (under 120 seconds)
+Q26_comment,G,-,-,-,-,-,"Free text, not modelled"

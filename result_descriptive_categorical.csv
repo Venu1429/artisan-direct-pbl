@@ -1,0 +1,47 @@
+variable,category,count,share_pct
+Q2_gender,Female,1469,51.7
+Q2_gender,Male,1241,43.7
+Q2_gender,Prefer not to say,67,2.4
+Q2_gender,Non-binary,62,2.2
+Q3_city_tier,Metro,1121,39.5
+Q3_city_tier,Tier-2 city,871,30.7
+Q3_city_tier,Tier-3 city or town,509,17.9
+Q3_city_tier,Rural,338,11.9
+Q4_education,Bachelor's,1091,38.4
+Q4_education,Diploma,702,24.7
+Q4_education,Master's,654,23.0
+Q4_education,Up to Class 12,204,7.2
+Q4_education,Doctorate or professional,149,5.2
+Q4_education,,39,1.4
+Q5_occupation,Salaried,1332,46.9
+Q5_occupation,Self-employed or business,505,17.8
+Q5_occupation,Student,341,12.0
+Q5_occupation,Homemaker,283,10.0
+Q5_occupation,Retired,222,7.8
+Q5_occupation,Other,156,5.5
+Q6_income_band,"30,001-60,000",854,30.1
+Q6_income_band,"15,000-30,000",680,24.0
+Q6_income_band,"60,001-1,00,000",479,16.9
+Q6_income_band,"below 15,000",271,9.5
+Q6_income_band,"above 1,00,000",223,7.9
+Q6_income_band,No income,186,6.6
+Q6_income_band,,146,5.1
+Q14_main_reason,I do not buy handmade,1339,47.2
+Q14_main_reason,Supporting artisans,369,13.0
+Q14_main_reason,Gifting,355,12.5
+Q14_main_reason,Home decor,308,10.8
+Q14_main_reason,Personal use or fashion,256,9.0
+Q14_main_reason,Festival or cultural occasion,212,7.5
+Q19_price_display_pref,"Fixed price with a breakdown (material, labour, platform fee)",1240,43.7
+Q19_price_display_pref,Fixed price set by the artisan,902,31.8
+Q19_price_display_pref,Negotiable with the artisan,697,24.6
+Q20_profile_priority,Photo and story,828,29.2
+Q20_profile_priority,Ratings from buyers,741,26.1
+Q20_profile_priority,Sample of past work,606,21.3
+Q20_profile_priority,Years of experience,388,13.7
+Q20_profile_priority,Village or region,276,9.7
+Q21_intent_1to5,4,689,24.3
+Q21_intent_1to5,2,624,22.0
+Q21_intent_1to5,1,565,19.9
+Q21_intent_1to5,3,496,17.5
+Q21_intent_1to5,5,465,16.4

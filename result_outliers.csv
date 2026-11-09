@@ -1,0 +1,7 @@
+variable,n_outliers,share_pct,raw_max,cap_value,median
+Q9_monthly_online_spend,39,1.37,560860.0,30164.0,3850.0
+Q16_last_handmade_price,22,0.77,130530.0,7392.0,1300.0
+Q23_max_price_one_item,28,0.99,91350.0,11134.0,950.0
+Q24_annual_spend_app,18,0.63,449950.0,50169.0,3030.0
+Q1_age (impossible),11,0.39,999.0,80.0,32.0
+Q7_online_orders_per_month,15,0.53,199.0,40.0,4.0

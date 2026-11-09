@@ -1,0 +1,11 @@
+target,feature,pct_effect,p
+Max price per item (Q23),Reason: I do not buy handmade,1439.5,1.6041885386196157e-31
+Max price per item (Q23),Last handmade price (log),51.1,9.06667603115133e-06
+Max price per item (Q23),Purchase intent (Q21),29.5,5.558302851851885e-52
+Max price per item (Q23),Income band,15.6,1.0412107832294667e-11
+Max price per item (Q23),Attitude: Pays more for authentic,7.9,1.2327148384367157e-06
+Annual spend on app (Q24),Bought handmade last year,-90.6,3.920240106920854e-05
+Annual spend on app (Q24),Purchase intent (Q21),711.1,7.921376165110342e-221
+Annual spend on app (Q24),Bought at Social media sellers,57.4,0.008236734726633398
+Annual spend on app (Q24),Last handmade price (log),56.8,3.7525061383555274e-06
+Annual spend on app (Q24),City tier (metro=3),-15.7,0.005378916479019422

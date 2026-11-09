@@ -1,0 +1,9 @@
+variable,label,count,mean,median,std,min,q1,q3,max,skewness
+Q1_age,Age,2839,33.1,32.0,9.2,18.0,26.0,39.0,68.0,0.55
+Q7_online_orders_per_month,Online orders per month,2839,4.7,4.0,4.0,0.0,2.0,6.0,40.0,3.99
+Q9_monthly_online_spend,Monthly online spend (INR),2839,5311.0,3850.0,4961.7,290.0,2300.0,6440.0,30164.34661109327,2.74
+Q16_last_handmade_price,Last handmade price (INR),2839,857.3,400.0,1241.5,0.0,0.0,1340.0,7391.640132225965,2.42
+Q17_artisan_share_belief,"Belief: artisan share of INR 1,000",2839,338.7,340.0,144.1,20.0,240.0,440.0,810.0,0.04
+Q23_max_price_one_item,Max price per item (INR),2780,1542.2,950.0,1785.1,60.0,500.0,1820.0,11134.100000000008,2.92
+Q24_annual_spend_app,Yearly spend on app (INR),2839,3868.7,820.0,7553.2,0.0,0.0,4305.0,50169.19999999998,3.55
+Q25_purchases_per_year,Purchases per year,2839,1.8,1.0,2.0,0.0,0.0,3.0,10.0,1.09

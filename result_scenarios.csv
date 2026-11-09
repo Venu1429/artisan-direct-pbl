@@ -1,0 +1,4 @@
+buyers_per_1000,gmv_per_buyer_year,contribution_per_buyer_year,ltv,cac,ltv_cac,payback_months,breakeven_buyers,max_cac_for_3x,breakeven_gmv,scenario,take_rate_pct,spend_factor,conv_mult,life_years,fixed_cost
+54.1,4015.0,241.0,361.0,800,0.45,39.8,20755,120.0,83333333,Conservative,12.0,0.45,0.5,1.5,5000000
+108.3,5354.0,482.0,1205.0,500,2.41,12.5,10377,402.0,55555556,Base,15.0,0.6,1.0,2.5,5000000
+162.4,7138.0,928.0,3248.0,350,9.28,4.5,5388,1083.0,38461538,Optimistic,18.0,0.8,1.5,3.5,5000000
